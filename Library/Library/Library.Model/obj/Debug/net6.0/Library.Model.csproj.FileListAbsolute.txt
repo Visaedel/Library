@@ -1,0 +1,24 @@
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\bin\Debug\net6.0\Library.Model.deps.json
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\bin\Debug\net6.0\Library.Model.dll
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\bin\Debug\net6.0\Library.Model.pdb
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.csproj.AssemblyReference.cache
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.AssemblyInfoInputs.cache
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.AssemblyInfo.cs
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.csproj.CoreCompileInputs.cache
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.dll
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\refint\Library.Model.dll
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.pdb
+C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\ref\Library.Model.dll
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\bin\Debug\net6.0\Library.Model.deps.json
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\bin\Debug\net6.0\Library.Model.dll
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\bin\Debug\net6.0\Library.Model.pdb
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.csproj.AssemblyReference.cache
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.AssemblyInfoInputs.cache
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.AssemblyInfo.cs
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.csproj.CoreCompileInputs.cache
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.dll
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\refint\Library.Model.dll
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\Library.Model.pdb
+C:\Users\HayaL\Desktop\Salih Emre Nayman\Proje-1\Library\Library\Library.Model\obj\Debug\net6.0\ref\Library.Model.dll

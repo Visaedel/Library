@@ -1,0 +1,340 @@
+2023-08-24 18:09:23.9534||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 18:09:23.9909||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Creating key {5a95fdf6-8f1c-4336-80f2-6396f0eccdda} with creation date 2023-08-24 15:09:23Z, activation date 2023-08-24 15:09:23Z, and expiration date 2023-11-22 15:09:23Z. 
+2023-08-24 18:09:24.0059||INFO|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Writing data to file 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys\key-5a95fdf6-8f1c-4336-80f2-6396f0eccdda.xml'. 
+2023-08-24 18:09:24.4473||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 18:09:24.4473||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 18:09:24.4473||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 18:09:24.4473||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 18:09:24.4473||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 18:09:25.3751||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 18:09:26.0171||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 643.4733ms 
+2023-08-24 18:09:26.0171||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 18:09:26.0319||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 18:09:26.0319||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 13.9657ms 
+2023-08-24 18:09:26.1136||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 81.6508ms 
+2023-08-24 18:09:26.1754||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 18:09:26.2868||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 111.3745ms 
+2023-08-24 18:10:04.5764||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 18:10:04.8037||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 18:10:04.8037||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 18:10:04.8055||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 18:10:04.8055||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 18:10:04.8055||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 18:10:05.4424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 18:10:05.8218||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 381.3398ms 
+2023-08-24 18:10:05.8218||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 18:10:05.8421||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 18:10:05.8579||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 15.4053ms 
+2023-08-24 18:10:05.8886||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 54.9241ms 
+2023-08-24 18:10:05.9776||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 18:10:06.0722||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 94.5819ms 
+2023-08-24 18:10:18.9289||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7288/api/Kiralama/Kaydet application/json 8 
+2023-08-24 18:10:18.9383||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.KiralamaController.Kaydet (Library.API)' 
+2023-08-24 18:10:18.9515||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Kaydet", controller = "Kiralama"}. Executing controller action with signature System.Object Kaydet(System.Object) on controller Library.API.Controllers.KiralamaController (Library.API). 
+2023-08-24 18:10:42.1892||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 18:10:42.4611||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 18:10:42.4611||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 18:10:42.4611||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 18:10:42.4611||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 18:10:42.4611||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 18:10:43.3531||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 18:10:43.7524||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 400.9403ms 
+2023-08-24 18:10:43.7654||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 18:10:43.7654||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 18:10:43.7858||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 20.3427ms 
+2023-08-24 18:10:43.8227||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.6300ms 
+2023-08-24 18:10:43.9124||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 18:10:44.0289||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 116.5970ms 
+2023-08-24 18:10:50.8731||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Kitap/TumKitaplar - - 
+2023-08-24 18:10:50.8856||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.KitapController.TumKitaplar (Library.API)' 
+2023-08-24 18:10:50.8856||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "TumKitaplar", controller = "Kitap"}. Executing controller action with signature System.Object TumKitaplar() on controller Library.API.Controllers.KitapController (Library.API). 
+2023-08-24 18:10:52.8891||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (27ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [k].[KitapId], [k].[Ad], [k].[ISBN], [k].[KategoriId], [k].[YayinTarihi]
+FROM [Kitap] AS [k] 
+2023-08-24 18:10:52.9174||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[Library.Model.Kitap, Library.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 18:10:52.9380||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.KitapController.TumKitaplar (Library.API) in 2037.2868ms 
+2023-08-24 18:10:52.9380||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.KitapController.TumKitaplar (Library.API)' 
+2023-08-24 18:10:52.9473||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Kitap/TumKitaplar - - - 200 - application/json;+charset=utf-8 2074.2324ms 
+2023-08-24 22:51:21.0089||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 22:51:21.1915||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 22:51:21.1915||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 22:51:21.1915||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 22:51:21.1915||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 22:51:21.1915||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 22:51:21.9012||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger - - 
+2023-08-24 22:51:22.0886||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger - - - 301 0 - 189.1841ms 
+2023-08-24 22:51:22.0886||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 22:51:22.2882||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 188.5145ms 
+2023-08-24 22:51:22.2882||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/swagger-ui.css - - 
+2023-08-24 22:51:22.2882||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/swagger-ui-bundle.js - - 
+2023-08-24 22:51:22.2896||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/swagger-ui-standalone-preset.js - - 
+2023-08-24 22:51:22.2896||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 22:51:22.2896||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 22:51:22.3315||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 41.8336ms 
+2023-08-24 22:51:22.3544||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' 
+2023-08-24 22:51:22.3544||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' 
+2023-08-24 22:51:22.3544||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 66.1586ms 
+2023-08-24 22:51:22.3544||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/swagger-ui.css - - - 200 144929 text/css 67.1696ms 
+2023-08-24 22:51:22.3902||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' 
+2023-08-24 22:51:22.3902||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 102.2944ms 
+2023-08-24 22:51:22.4150||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 113.1571ms 
+2023-08-24 22:51:22.6609||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 22:51:22.7231||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/favicon-32x32.png - - 
+2023-08-24 22:51:22.7231||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+2023-08-24 22:51:22.7231||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/favicon-32x32.png - - - 200 628 image/png 1.5317ms 
+2023-08-24 22:51:22.7936||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 132.7675ms 
+2023-08-24 22:51:45.7231||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Rol/TumRolller - - 
+2023-08-24 22:51:45.7686||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 22:51:45.7766||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "TumRoller", controller = "Rol"}. Executing controller action with signature System.Object TumRoller() on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 22:51:46.8700||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (27ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [r].[RollId], [r].[RollAd]
+FROM [Roll] AS [r] 
+2023-08-24 22:51:46.8904||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[Library.Model.Roll, Library.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 22:51:46.9091||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.TumRoller (Library.API) in 1129.4199ms 
+2023-08-24 22:51:46.9091||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 22:51:46.9166||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Rol/TumRolller - - - 200 - application/json;+charset=utf-8 1193.8919ms 
+2023-08-24 23:01:06.2112||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 23:01:06.6085||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 23:01:06.6085||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 23:01:06.6085||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 23:01:06.6085||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 23:01:06.6085||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 23:01:07.5196||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 23:01:07.9208||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 402.5556ms 
+2023-08-24 23:01:07.9402||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 23:01:07.9402||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 23:01:07.9608||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 20.4090ms 
+2023-08-24 23:01:08.0093||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 69.0644ms 
+2023-08-24 23:01:08.2832||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 23:01:08.4311||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 147.8272ms 
+2023-08-24 23:01:48.6733||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 23:01:49.2055||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 23:01:49.2055||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 23:01:49.2055||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 23:01:49.2055||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 23:01:49.2124||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 23:01:50.3905||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 23:01:50.9112||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 522.6927ms 
+2023-08-24 23:01:50.9299||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 23:01:50.9299||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 23:01:50.9423||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 12.2306ms 
+2023-08-24 23:01:50.9899||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 59.9452ms 
+2023-08-24 23:01:51.1420||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 23:01:51.3252||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 183.1362ms 
+2023-08-24 23:03:17.6516||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 23:03:18.1657||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 23:03:18.1657||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 23:03:18.1657||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 23:03:18.1657||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 23:03:18.1657||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 23:03:19.2187||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 23:03:19.6120||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 396.5492ms 
+2023-08-24 23:03:19.6262||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 23:03:19.6262||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 23:03:19.6358||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 9.4776ms 
+2023-08-24 23:03:19.6779||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.6688ms 
+2023-08-24 23:03:19.7760||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 23:03:19.8942||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 118.2369ms 
+2023-08-24 23:12:17.9210||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 23:12:18.2245||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 23:12:18.2245||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 23:12:18.2245||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 23:12:18.2280||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 23:12:18.2280||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 23:12:19.1337||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 23:12:19.5919||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 458.2426ms 
+2023-08-24 23:12:19.5919||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 23:12:19.6210||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 23:12:19.6210||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 23.9799ms 
+2023-08-24 23:12:19.7016||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 80.5395ms 
+2023-08-24 23:12:19.8369||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 23:12:19.9938||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 156.8998ms 
+2023-08-24 23:17:41.4140||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 23:17:41.9539||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 23:17:41.9539||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 23:17:41.9539||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 23:17:41.9539||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 23:17:41.9539||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 23:17:43.1728||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 23:17:43.6443||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 469.8643ms 
+2023-08-24 23:17:43.6636||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 23:17:43.6636||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 23:17:43.6791||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 15.3730ms 
+2023-08-24 23:17:43.7292||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 65.5533ms 
+2023-08-24 23:17:43.8695||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 23:17:44.0505||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 180.9920ms 
+2023-08-24 23:18:12.0169||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - 
+2023-08-24 23:18:12.0336||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:12.0336||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - - 204 - - 19.1391ms 
+2023-08-24 23:18:12.0405||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - 
+2023-08-24 23:18:12.0405||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:12.0405||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:18:12.0614||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "TumRoller", controller = "Rol"}. Executing controller action with signature System.Object TumRoller() on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 23:18:13.6461||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (24ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [r].[RollId], [r].[RollAd]
+FROM [Roll] AS [r] 
+2023-08-24 23:18:13.6754||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[Library.Model.Roll, Library.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 23:18:13.7005||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.TumRoller (Library.API) in 1635.0306ms 
+2023-08-24 23:18:13.7005||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:18:13.7005||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - - 200 - application/json;+charset=utf-8 1669.7004ms 
+2023-08-24 23:18:17.5448||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 OPTIONS https://localhost:7288/api/Rol/Kaydet - - 
+2023-08-24 23:18:17.5448||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:17.5448||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 OPTIONS https://localhost:7288/api/Rol/Kaydet - - - 204 - - 2.3185ms 
+2023-08-24 23:18:17.5448||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7288/api/Rol/Kaydet application/json;+charset=UTF-8 8 
+2023-08-24 23:18:17.5448||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:17.5448||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.Kaydet (Library.API)' 
+2023-08-24 23:18:17.5569||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Kaydet", controller = "Rol"}. Executing controller action with signature System.Object Kaydet(System.Object) on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 23:18:17.8117||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType1`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 23:18:17.8117||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.Kaydet (Library.API) in 256.2044ms 
+2023-08-24 23:18:17.8117||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.Kaydet (Library.API)' 
+2023-08-24 23:18:17.8117||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 POST https://localhost:7288/api/Rol/Kaydet application/json;+charset=UTF-8 8 - 200 - application/json;+charset=utf-8 264.3019ms 
+2023-08-24 23:18:21.4244||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - 
+2023-08-24 23:18:21.4244||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:21.4244||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - - 204 - - 1.8489ms 
+2023-08-24 23:18:21.4309||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - 
+2023-08-24 23:18:21.4309||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:21.4309||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:18:21.4309||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "TumRoller", controller = "Rol"}. Executing controller action with signature System.Object TumRoller() on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 23:18:21.5182||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [r].[RollId], [r].[RollAd]
+FROM [Roll] AS [r] 
+2023-08-24 23:18:21.5182||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[Library.Model.Roll, Library.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 23:18:21.5182||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.TumRoller (Library.API) in 85.4352ms 
+2023-08-24 23:18:21.5182||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:18:21.5182||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - - 200 - application/json;+charset=utf-8 90.1664ms 
+2023-08-24 23:18:22.1434||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - 
+2023-08-24 23:18:22.1434||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:22.1434||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - - 204 - - 1.4739ms 
+2023-08-24 23:18:22.1532||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - 
+2023-08-24 23:18:22.1532||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:22.1532||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:18:22.1532||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "TumRoller", controller = "Rol"}. Executing controller action with signature System.Object TumRoller() on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 23:18:22.1532||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [r].[RollId], [r].[RollAd]
+FROM [Roll] AS [r] 
+2023-08-24 23:18:22.1532||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[Library.Model.Roll, Library.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 23:18:22.1532||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.TumRoller (Library.API) in 3.1498ms 
+2023-08-24 23:18:22.1532||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:18:22.1532||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - - 200 - application/json;+charset=utf-8 6.6128ms 
+2023-08-24 23:18:24.7049||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 OPTIONS https://localhost:7288/api/Rol/Kaydet - - 
+2023-08-24 23:18:24.7049||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:24.7049||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 OPTIONS https://localhost:7288/api/Rol/Kaydet - - - 204 - - 1.4880ms 
+2023-08-24 23:18:24.7049||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7288/api/Rol/Kaydet application/json;+charset=UTF-8 8 
+2023-08-24 23:18:24.7049||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:18:24.7049||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.Kaydet (Library.API)' 
+2023-08-24 23:18:24.7111||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Kaydet", controller = "Rol"}. Executing controller action with signature System.Object Kaydet(System.Object) on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 23:18:24.7111||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType1`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 23:18:24.7111||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.Kaydet (Library.API) in 2.463ms 
+2023-08-24 23:18:24.7111||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.Kaydet (Library.API)' 
+2023-08-24 23:18:24.7111||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 POST https://localhost:7288/api/Rol/Kaydet application/json;+charset=UTF-8 8 - 200 - application/json;+charset=utf-8 4.5495ms 
+2023-08-24 23:23:51.7003||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 23:23:51.9888||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 23:23:51.9888||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 23:23:52.0036||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 23:23:52.0036||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 23:23:52.0036||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 23:23:52.8717||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 23:23:53.3655||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 23:23:53.3655||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 494.8180ms 
+2023-08-24 23:23:53.3875||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 23:23:53.4064||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 39.7471ms 
+2023-08-24 23:23:53.4946||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 109.0749ms 
+2023-08-24 23:23:53.6282||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 23:23:53.8349||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 206.6116ms 
+2023-08-24 23:23:59.4011||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 23:23:59.4297||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 28.5110ms 
+2023-08-24 23:23:59.4599||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 23:23:59.4599||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 23:23:59.4715||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 5.7247ms 
+2023-08-24 23:23:59.5135||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.4865ms 
+2023-08-24 23:23:59.6239||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 23:23:59.6239||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.2853ms 
+2023-08-24 23:24:01.9165||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - 
+2023-08-24 23:24:01.9165||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:24:01.9165||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - - 204 - - 10.3887ms 
+2023-08-24 23:24:01.9314||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - 
+2023-08-24 23:24:01.9314||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:24:01.9314||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:24:01.9547||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "TumRoller", controller = "Rol"}. Executing controller action with signature System.Object TumRoller() on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 23:24:02.7565||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - 
+2023-08-24 23:24:02.7565||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:24:02.7583||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:24:02.7583||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "TumRoller", controller = "Rol"}. Executing controller action with signature System.Object TumRoller() on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 23:24:03.8541||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (25ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [r].[RollId], [r].[RollAd]
+FROM [Roll] AS [r] 
+2023-08-24 23:24:03.8541||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (24ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [r].[RollId], [r].[RollAd]
+FROM [Roll] AS [r] 
+2023-08-24 23:24:03.8865||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[Library.Model.Roll, Library.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 23:24:03.8865||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[Library.Model.Roll, Library.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 23:24:03.9129||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.TumRoller (Library.API) in 1148.7925ms 
+2023-08-24 23:24:03.9129||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.TumRoller (Library.API) in 1956.5696ms 
+2023-08-24 23:24:03.9129||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:24:03.9129||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:24:03.9220||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - - 0 - application/json;+charset=utf-8 1990.6186ms 
+2023-08-24 23:24:03.9220||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - - 200 - application/json;+charset=utf-8 1165.4982ms 
+2023-08-24 23:30:57.6921||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 23:30:58.1950||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 23:30:58.1963||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 23:30:58.1963||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 23:30:58.1963||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 23:30:58.1963||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 23:30:59.4237||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 23:30:59.9827||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 23:30:59.9827||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 566.3184ms 
+2023-08-24 23:30:59.9994||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 23:31:00.0315||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 21.0620ms 
+2023-08-24 23:31:00.2296||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 230.0798ms 
+2023-08-24 23:31:00.4180||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 23:31:00.7205||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 302.5003ms 
+2023-08-24 23:33:48.5873||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\HayaL\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-24 23:33:49.0995||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7288 
+2023-08-24 23:33:49.1279||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5073 
+2023-08-24 23:33:49.1345||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-24 23:33:49.1345||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-24 23:33:49.1345||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\HayaL\Desktop\Proje-1\Library\Library\Library.API 
+2023-08-24 23:33:50.8814||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - - 
+2023-08-24 23:33:51.8795||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - - - 200 - text/html;charset=utf-8 1003.4020ms 
+2023-08-24 23:33:51.9226||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-24 23:33:51.9226||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - - 
+2023-08-24 23:33:51.9544||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 31.6759ms 
+2023-08-24 23:33:52.0303||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 107.6934ms 
+2023-08-24 23:33:52.2580||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - 
+2023-08-24 23:33:52.5606||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 302.5320ms 
+2023-08-24 23:34:04.6953||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 OPTIONS https://localhost:7288/api/Roll/TumRolller - - 
+2023-08-24 23:34:04.7082||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:34:04.7127||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 OPTIONS https://localhost:7288/api/Roll/TumRolller - - - 204 - - 17.4386ms 
+2023-08-24 23:34:04.7127||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Roll/TumRolller application/json;+charset=utf-8 - 
+2023-08-24 23:34:04.7127||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:34:04.7127||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Roll/TumRolller application/json;+charset=utf-8 - - 404 0 - 4.0512ms 
+2023-08-24 23:34:12.5241||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Roll/TumRolller - - 
+2023-08-24 23:34:12.5241||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Roll/TumRolller - - - 404 0 - 4.1861ms 
+2023-08-24 23:34:50.4714||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - 
+2023-08-24 23:34:50.4989||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:34:50.4989||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - - 204 - - 28.2389ms 
+2023-08-24 23:34:50.4989||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - 
+2023-08-24 23:34:50.4989||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:34:50.5102||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:34:50.5327||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "TumRoller", controller = "Rol"}. Executing controller action with signature System.Object TumRoller() on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 23:34:52.7488||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (33ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [r].[RollId], [r].[RollAd]
+FROM [Roll] AS [r] 
+2023-08-24 23:34:52.7878||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[Library.Model.Roll, Library.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 23:34:52.8236||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.TumRoller (Library.API) in 2284.4702ms 
+2023-08-24 23:34:52.8236||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:34:52.8370||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - - 200 - application/json;+charset=utf-8 2332.2433ms 
+2023-08-24 23:34:55.5985||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - 
+2023-08-24 23:34:55.6029||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:34:55.6029||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 OPTIONS https://localhost:7288/api/Rol/TumRolller - - - 204 - - 5.6994ms 
+2023-08-24 23:34:55.6029||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - 
+2023-08-24 23:34:55.6029||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2023-08-24 23:34:55.6029||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:34:55.6180||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "TumRoller", controller = "Rol"}. Executing controller action with signature System.Object TumRoller() on controller Library.API.Controllers.RolController (Library.API). 
+2023-08-24 23:34:55.6552||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [r].[RollId], [r].[RollAd]
+FROM [Roll] AS [r] 
+2023-08-24 23:34:55.6552||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[Library.Model.Roll, Library.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2023-08-24 23:34:55.6552||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Library.API.Controllers.RolController.TumRoller (Library.API) in 41.8844ms 
+2023-08-24 23:34:55.6552||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Library.API.Controllers.RolController.TumRoller (Library.API)' 
+2023-08-24 23:34:55.6552||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7288/api/Rol/TumRolller application/json;+charset=utf-8 - - 200 - application/json;+charset=utf-8 46.7059ms 
